@@ -15,6 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #f5f5f5;
 }
 
 .left{
@@ -37,7 +38,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #f5f5f546;
+    background-color: #ffffff;
     
 }
 
